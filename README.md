@@ -1,7 +1,7 @@
 # Section-A-readmefile
 
 ## Description
-This Python script collects the names and grades of students in a class, calculates the total and the average grade,calculates class statistics, and validates grade inputs to ensure they are valid.
+This Python script collects the names and grades of students in a class, calculates the total, the average grade and also makes sure that the  grade enteres are valid.
 
 ## Features
 
